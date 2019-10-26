@@ -8,7 +8,10 @@
 	border-radius: 15px;
 }
 
-
+.heading h1{
+	text-align: center;
+	margin:10px;
+}
 
 .poster img{
 	margin: 20px;

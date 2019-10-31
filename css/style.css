@@ -40,7 +40,7 @@ header{
     padding:0;
     margin:0;
 }
-
+  
 nav a:hover{
     color: blue;
 }
@@ -75,4 +75,5 @@ nav a{
     text-transform: uppercase;
     font-size: 16px;
     font-family:Ariel, Helvetica, sans-sarif;
+    background-color:rgba(0,0,0,0.6);
 }

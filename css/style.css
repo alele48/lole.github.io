@@ -25,6 +25,10 @@
     padding-bottom:80px;
 }
 
+.container li{
+    font-family:Ariel, Helvetica, sans-sarif;
+}
+
 header{
     background:#55d6aa;
     margin-bottom:70px;   
